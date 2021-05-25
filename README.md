@@ -3,7 +3,8 @@
 My name is Alican Toprak and I'm a software engineer from Frankfurt/Germany.
 
 #### Links
-[LinkedIn](https://www.linkedin.com/in/alican-toprak/)
+- [StackOverflow](https://stackoverflow.com/users/1920342/yyyy-mm-dd)
+- [LinkedIn](https://www.linkedin.com/in/alican-toprak/
 
 
 <!--
