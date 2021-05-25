@@ -2,6 +2,9 @@
 
 My name is Alican Toprak and I'm a software engineer from Frankfurt/Germany.
 
+#### Links
+[LinkedIn](https://www.linkedin.com/in/alican-toprak/)
+
 
 <!--
 **alican/alican** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
