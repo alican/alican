@@ -19,7 +19,7 @@
        �                                                                            �
        �                       Razor 1911 Proudly Presents:                         �
        �                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                        �
-       �                        Alican Toprak                                       �
+       �                        <span style="color:blue">Alican Toprak</span>                                       �
        �                                                                            �
        �                                                                            �
        ������������������������������������������������������������������������������
