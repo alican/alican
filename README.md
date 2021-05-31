@@ -23,16 +23,16 @@
      ├────────────────────────────────────────────────────────────────────────────┤
 
 
-                                                /\
+                                        /\
+  
+                       Alican Toprak   /__\   Since 1988
 
-                               Alican Toprak   /__\   Since 1988
+                                      /\  /\
 
-                                              /\  /\
-
-                                             /__\/__\
+                                     /__\/__\
 
 
 
-                        SUPPORT THE DEVELOPER THAT PRODUCE QUALITY SOFTWARE!
+                SUPPORT THE DEVELOPER THAT PRODUCE QUALITY SOFTWARE!
 
-               IF YOU ENJOYED A REPO, LIKE IT!  SOFTWARE AUTHORS DESERVE SUPPORT!!
+       IF YOU ENJOYED A REPO, LIKE IT!  SOFTWARE AUTHORS DESERVE SUPPORT!!
