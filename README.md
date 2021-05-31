@@ -21,3 +21,18 @@
      │     Cracked By : n/a                  Protection Type : None found         │
      │                                                                            │
      ├────────────────────────────────────────────────────────────────────────────┤
+
+
+                                      /\
+
+                     Alican Toprak   /__\   Since 1988
+
+                                    /\  /\
+
+                                   /__\/__\
+
+
+
+              SUPPORT THE DEVELOPER THAT PRODUCE QUALITY SOFTWARE!
+
+     IF YOU ENJOYED A REPO, LIKE IT!  SOFTWARE AUTHORS DESERVE SUPPORT!!
